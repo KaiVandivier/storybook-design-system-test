@@ -26,7 +26,7 @@ export const AllButtons = (args) => (
     <Button appearance="primary">Primary</Button>
     <Button appearance="secondary">Secondary</Button>
     <Button appearance="tertiary">Tertiary</Button>
-    {/* <Button appearance="outline">Outline</Button> */}
+    <Button appearance="outline">Outline</Button>
     <Button appearance="primaryOutline">Outline primary</Button>
     <Button appearance="secondaryOutline">Outline secondary</Button>
     <Button appearance="primary" isDisabled>
