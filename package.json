@@ -1,11 +1,11 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "kpv-learnstorybook-design-system",
   "version": "0.1.0",
   "private": false,
   "description": "Learn Storybook design system",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "repository": "https://github.com/KaiVandivier/storybook-design-system-test",
+  "author": "Kai Vandiver <kpvandivier@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
